@@ -9,3 +9,6 @@
 
 [CONOP_HygienicsServer]
 79.139.191.234:2302
+
+[CONOP_HygienicsDLCServer]
+79.139.191.234:2302
